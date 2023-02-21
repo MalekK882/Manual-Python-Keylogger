@@ -1,4 +1,5 @@
-# Untested keylogger intended for use on MalekK882’s GitHub page. Made with some valuable advice from a YouTube video by “Murtaza’s Wokshop” on detecting key inputs.
+# Untested keylogger intended for use on MalekK882’s GitHub page. 
+# Made with some valuable advice from a YouTube video by “Murtaza’s Wokshop” on detecting key inputs.
 
 # import necessary modules
 import keyboard
