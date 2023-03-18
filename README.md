@@ -4,7 +4,7 @@ A simple — maybe broken, keylogger in Python. Detects letter usage and records
 As said, this is a most likely working yet untested keylogger that records letters and adds them to a directory.
 Not intended for malicious use.
 
-Somewhat a work in progress, since I wanna add more functions sometime...
+Somewhat a work in progress, since I wanna add more functions sometime... I think it is functional at what it does however.
 Made after watching a very inspring malware video, and viewing course examples.
 Thanks to "Murtaza's Workshop"'s for explaining how Python can detect keys and how keys are manually added to a txt file.
 
